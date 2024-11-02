@@ -25,10 +25,6 @@ This project contains a Python script that performs a timing attack to brute-for
    chmod +x vault.o
    ```
 
-4. Install any dependencies (though none are currently required for this script):
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## How to Run
 
